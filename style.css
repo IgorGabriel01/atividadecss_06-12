@@ -27,8 +27,10 @@ nav ul li {
 }
 
 main {
+  padding: 15px;
   background-color: #6A5ACD;
   color: white;
+  height: 100%;
 }
 
 .margin {
